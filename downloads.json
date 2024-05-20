@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Device 1",
+        "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-12-5g-1.jpg",
+        "downloadLink": "https://sourceforge.net/projects/example/files/device1.zip/download",
+        "changelogLink": "https://github.com/example/device1-changelog"
+    },
+    {
+        "name": "Device 2",
+        "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-1.jpg",
+        "downloadLink": "https://sourceforge.net/projects/example/files/device2.zip/download",
+        "changelogLink": "https://github.com/example/device2-changelog"
+    }
+    // Add more devices as needed
+]
